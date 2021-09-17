@@ -1,1 +1,2 @@
 *.twig linguist-language=PHP
+*.scss linguist-language=CSS
