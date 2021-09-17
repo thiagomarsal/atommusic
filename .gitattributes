@@ -1,1 +1,1 @@
-.twing linguist-detectable=false
+*.twig linguist-language=PHP
